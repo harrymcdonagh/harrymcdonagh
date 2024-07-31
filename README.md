@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Voyage](https://github.com/harrymcdonagh/Voyage)
 
-- 🌱 I’m currently learning **React, ChartJS, NextJS and using APIs**
+- 🌱 I’m currently learning **React & NextJS **
 
 - 👨‍💻 All of my projects are available at [harrymcdonaghport.com](harrymcdonaghport.com)
 
