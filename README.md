@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React & NextJS**
 
-- 👨‍💻 All of my projects are available at [harrymcdonagh-portfolio.vercel.app](https://harrymcdonagh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [harrymcdonagh.com](https://www.harrymcdonagh.com)
 
 - 📫 How to reach me **harrymcdonagh82@gmail.com**
 
