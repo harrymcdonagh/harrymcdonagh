@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">An aspiring Software Engineer based in the UK</h3>
 
-- 🔭 I’m currently working on [Voyage](https://github.com/harrymcdonagh/Voyage)
+- 🔭 I’m currently working on my final year project [Slyvie](https://github.com/harrymcdonagh/slyvie)
 
 - 🌱 I’m currently learning **React & NextJS**
 
