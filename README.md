@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on my final year project [Sylvie](https://github.com/harrymcdonagh/slyvie) and [Sylive-backend](https://github.com/harrymcdonagh/slyvie-backend)
 
-- 🌱 I’m currently learning **React & NextJS**
-
 - 👨‍💻 All of my projects are available at [harrymcdonagh.com](https://www.harrymcdonagh.com)
 
 - 📫 How to reach me **harrymcdonagh82@gmail.com**
