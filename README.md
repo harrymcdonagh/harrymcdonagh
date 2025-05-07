@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A Final Year Computer Science Student</h3>
 
-- 🔭 I’m currently working on my final year project [Sylvie](https://github.com/harrymcdonagh/slyvie)
+- 🔭 I’m currently working on my final year project [Sylvie](https://github.com/harrymcdonagh/slyvie) and [sylive-backend](https://github.com/harrymcdonagh/slyvie-backend)
 
 - 🌱 I’m currently learning **React & NextJS**
 
