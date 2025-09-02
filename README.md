@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-mcdonagh)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-harrymcdonagh.com-ff69b4?logo=firefox&logoColor=white)](https://harrymcdonagh.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/harrymcdonagh?label=Follow&style=social)](https://github.com/harrymcdonagh)  
 
 ---
 
@@ -50,13 +49,6 @@ I’m a Computer Science graduate passionate about building scalable, user-focus
 - 🖥️ **IT Technician @ Horizone Ltd (2022)** – Built VBA automation reducing invoice time by ~80%, improved workflows, and managed secure Microsoft systems.  
 - 🏦 **Software Engineering Virtual Experience @ J.P. Morgan (2024)** – Debugged systems, created real-time data visualisations using the Perspective library.  
 - 🌐 **Technology Intern @ IEUK 2024** – Collaborated with BT, CrowdStrike, and Lloyds Banking Group on industry challenges.  
-
----
-
-## 📊 GitHub Stats  
-
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrymcdonagh&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrymcdonagh&layout=compact&theme=tokyonight)  
 
 ---
 
