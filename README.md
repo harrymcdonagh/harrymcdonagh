@@ -1,6 +1,6 @@
 # Hi, I’m Harry McDonagh 👋  
 
-🎓 **Computer Science Graduate (2:1)** | 💻 **Software Engineering, AI & Data-Driven Solutions**  
+🎓 **Computer Science Graduate (2:1)** 
 📍 London, UK | 🌐 [harrymcdonagh.com](https://harrymcdonagh.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-mcdonagh)  
@@ -61,4 +61,3 @@ I’m a Computer Science graduate passionate about building scalable, user-focus
 
 ---
 
-⚡ *“Driven by curiosity, motivated by impact.”*  
