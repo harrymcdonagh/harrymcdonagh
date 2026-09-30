@@ -50,12 +50,6 @@ I'm an Associate Consultant at an HR and Finance technology consultancy, working
 - 🔒 User authentication, conversation history and prompt engineering for safe, relevant answers
 - ⚡ Responses in **under 5s for 90% of queries** during testing
 
-### 🔹 [CryptoVoyage](https://crypto-voyage.vercel.app)
-📈 Cryptocurrency analysis web app
-- ⛓️ Live price tracking and historical charts
-- 🛠️ Built with TypeScript, React and Chart.js
-- 🚧 *Voyage*, an upgrade with user accounts and portfolio tracking, is in development
-
 👉 Full portfolio: [harrymcdonagh-portfolio.vercel.app](https://harrymcdonagh-portfolio.vercel.app/)
 
 ---
